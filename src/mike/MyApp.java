@@ -1,6 +1,7 @@
 package mike;
 
 public class MyApp {
+	// Making a change
 	public static void main(String[] args) {
 		
 		MyObject myObject = new MyObject();
